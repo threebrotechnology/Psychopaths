@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Психопаты</string>
+
+    <string name="start_text">12 психопатов. Выберите кого-нибудь и узнаете как он взаимодействует с остальными</string>
+
+    <string-array name="main_items">
+        <item>Аддиктоид</item>
+        <item>Циклоид</item>
+        <item>Астеноид</item>
+        <item>Шизоид</item>
+        <item>Виктим</item>
+        <item>Гипертим</item>
+        <item>Истероид</item>
+        <item>Сенситив</item>
+        <item>Рефлексоид</item>
+        <item>Конформоид</item>
+        <item>Параноид</item>
+        <item>Эпилептоид</item>
+    </string-array>
+
+    <integer-array name="draws">
+        <item>@drawable/type_0</item>
+        <item>@drawable/type_1</item>
+        <item>@drawable/type_2</item>
+        <item>@drawable/type_3</item>
+        <item>@drawable/type_4</item>
+        <item>@drawable/type_5</item>
+        <item>@drawable/type_6</item>
+        <item>@drawable/type_7</item>
+        <item>@drawable/type_8</item>
+        <item>@drawable/type_9</item>
+        <item>@drawable/type_10</item>
+        <item>@drawable/type_11</item>
+    </integer-array>
+</resources>

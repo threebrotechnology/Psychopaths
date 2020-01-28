@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2019 Life in darkness Inc.
+  ~ All right reserved
+  ~ Unauthorized copying of this file, via any medium is strictly prohibited
+  ~ Proprietary and confidential
+  -->
+
+<androidx.appcompat.widget.AppCompatImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/arrowBack"
+    android:layout_width="@dimen/title_setting_height"
+    android:layout_height="@dimen/title_setting_height"
+    android:background="?selectableItemBackgroundBorderless"
+    android:padding="16dp"
+    app:srcCompat="@drawable/arrow_back_black" />
